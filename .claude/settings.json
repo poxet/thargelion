@@ -5,17 +5,17 @@
   },  
   "permissions": {
     "allow": [
-      "Bash(powershell *)"
+      "Bash(powershell *)",
       "Bash(git status:*)",
       "Bash(git diff:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(git checkout:*)",
       "Bash(npm run:*)",
-      "Bash(dotnet test:*)"
+      "Bash(dotnet test:*)",
       "Read",
       "Glob",
-      "Grep",
+      "Grep"
     ],
     "deny": [
       "Bash(rm -rf:*)",
