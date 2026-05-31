@@ -1,0 +1,28 @@
+# Thargelion
+
+> Thargelion is a software consultancy that builds the backend systems and business logic large companies rely on, across many business domains. It also builds websites, its own software products, and a suite of open-source .NET components.
+
+Thargelion AB is based in Farsta, Sweden.
+
+## Products
+- [Plutus Wave](https://plutuswave.se/): Ledger-integrated finance for company groups - view multiple companies as one, build budgets, generate reports, and open original voucher documents such as receipts and invoices.
+- [Florida](https://floridakassa.se/): Over-the-counter POS for wholesalers - invoices or delivery notes, integrated card payments, receipts, advanced discount groups, item and box sales, and barcode support.
+- [Quilt4Net](https://quilt4.com/): Developer analytics and operations - remote feature toggles, configuration, log and monitoring views, deployment tracking, and Atlas MongoDB integration; integrate via REST or SignalR with ready-made .NET NuGet packages.
+- [Depend](https://community.chocolatey.org/packages/depend): A Chocolatey tool that visualizes dependencies between git repos, projects, and assemblies in complex multi-repo environments.
+- [Neurolito](https://neurolito.com/): An offloaded AI cluster that processes prompts from a queue at scale; attach your own self-hosted LLM agents or run the built-in Ollama agents.
+- [Skilden](http://skilden.com/): Build your own skill tree and track your progress; cluster across people to profile the skills of an entire company.
+
+## Open-source components
+Open-source .NET libraries, available on GitHub (https://github.com/Tharga) and NuGet:
+Blazor, Cache, Communication, Console, Crawler, Fortnox, Mcp, MongoDB, Platform, Reporter, Runtime, Team, Test, Toolkit, and Wpf.
+
+## Partners
+- [Gruppera](https://gruppera.se/) - IT consultants
+- [Eplicta](https://eplicta.se/) - web and social-media archiving, e-archives, and legal deposit (e-plikt)
+- [Rancio](http://rancio.com/) - a creative design studio
+- [Ternativa](https://ternativa.se/) - administrative help for companies
+
+## Contact
+- Email: support@thargelion.se
+- Phone: +46 708 48 03 92
+- Address: Thargelion AB, Hagforsgatan 17, 123 46 Farsta, Sweden
