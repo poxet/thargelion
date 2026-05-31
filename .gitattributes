@@ -1,0 +1,16 @@
+# Preserve LF line endings for all text files (the project requires LF, and the
+# HTML has very long single lines we don't want rewritten). This stops Git from
+# converting to CRLF on checkout regardless of a machine's core.autocrlf setting.
+* text=auto eol=lf
+
+# Binary assets - never touch line endings
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.webp  binary
+*.woff  binary
+*.woff2 binary
+*.eot   binary
+*.ttf   binary
