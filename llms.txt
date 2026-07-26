@@ -14,7 +14,8 @@ Thargelion AB is based in Farsta, Sweden.
 
 ## Open-source components
 Open-source .NET libraries, available on GitHub (https://github.com/Tharga) and NuGet:
-Blazor, Cache, Communication, Console, Crawler, Fortnox, Mcp, MongoDB, Platform, Reporter, Runtime, Team, Test, Toolkit, and Wpf.
+Blazor, Cache, Communication, Console, Crawler, Fortnox, Mcp, MongoDB, Platform, Reporter, Runtime, Test, Toolkit, and Wpf.
+Descriptions, package lists, documentation and dependency graphs for all components: https://tharga.net/
 
 ## Partners
 - [Gruppera](https://gruppera.se/) - IT consultants
