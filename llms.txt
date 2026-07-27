@@ -11,10 +11,11 @@ Thargelion AB is based in Farsta, Sweden.
 - [Depend](https://community.chocolatey.org/packages/depend): A Chocolatey tool that visualizes dependencies between git repos, projects, and assemblies in complex multi-repo environments.
 - [Neurolito](https://neurolito.com/): An offloaded AI cluster that processes prompts from a queue at scale; attach your own self-hosted LLM agents or run the built-in Ollama agents.
 - [Skilden](http://skilden.com/): Build your own skill tree and track your progress; cluster across people to profile the skills of an entire company.
+- Graphtern: Plot alternatives on a ternary graph, where three weighted dimensions meet in a single triangle; mark your own position and see which alternative lands closest to you.
 
 ## Open-source components
 Open-source .NET libraries, available on GitHub (https://github.com/Tharga) and NuGet:
-Blazor, Cache, Communication, Console, Crawler, Fortnox, Mcp, MongoDB, Platform, Reporter, Runtime, Test, Toolkit, and Wpf.
+Blazor, Cache, Communication, Console, Crawler, Fortnox, Mcp, MongoDB, Reporter, Runtime, Team, Test, Toolkit, and Wpf.
 Descriptions, package lists, documentation and dependency graphs for all components: https://tharga.net/
 
 ## Partners
