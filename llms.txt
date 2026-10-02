@@ -23,6 +23,8 @@ Descriptions, package lists, documentation and dependency graphs for all compone
 - [Eplicta](https://eplicta.se/) - web and social-media archiving, e-archives, and legal deposit (e-plikt)
 - [Rancio](http://rancio.com/) - a creative design studio
 - [Ternativa](https://ternativa.se/) - administrative help for companies
+- [Husiki](https://husiki.se/) - makers of SpartaBok, local bookkeeping software for small businesses
+- [Jordvargen](https://jordvargen.se/) - Jordvargen AB
 
 ## Contact
 - Email: support@thargelion.se
